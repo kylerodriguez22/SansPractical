@@ -22,7 +22,7 @@ pytest -s .\tests\test_scenario3.py
 python -m pytest -s .\tests\test_scenario3.py
 ```
 
-### Lessons Learned
+# Lessons Learned
 - Using xpath to identify elements in the webpage. Being a public page I was unable to add custom ID attributes which is preferred way of identifying elements
 - Coming from a Cypress background Selenium as a whole was new to me and applying it to the Page Object Model (POM) was a bit of learning curve to begin
 - Object Oriented Programming (OOP) with relation to Selenium and Python
